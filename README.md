@@ -1,6 +1,6 @@
 # Web_Scrapping
 
-Github topics page information and converting it into csv file for further analysis.
+Github topics page information and converting it into csv file .
 
 Project Name: Web Scraping Github Trending Topics Page using Beautiful Soup library in Python.
 
